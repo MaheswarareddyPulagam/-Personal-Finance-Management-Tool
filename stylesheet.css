@@ -1,0 +1,24 @@
+#navbar{
+    height:60px;    
+    background-color:black;
+    color:white;
+}
+#logo{
+    color:rgb(255, 89, 0);
+    font-size:25px;
+}
+button{
+    background-color:orange;
+}
+a{
+    color:white;
+    margin-right:200px;
+    text-decoration:none;
+}
+footer{
+    background-color: black;
+    color: white;
+}
+#content{
+    height:700px;
+}
